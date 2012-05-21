@@ -6,4 +6,7 @@ public class clase1 {
 	public void metodo1_clase1(){
 		System.out.println("Primer método");
 	}
+	public void metodo_rama1_clase1(){
+		System.out.println("Primer método de la rama");
+	}
 }
